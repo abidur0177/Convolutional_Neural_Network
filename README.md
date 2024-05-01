@@ -1,1 +1,1 @@
-# Convolutional_Neural_Network
+This repository is dedicated to image classification tasks using convolutional neural networks. I have also implemented transfer learning and data augmentation to avoid overfitting and underfitting problems. Both binary and multi-class classification projects are available in this repository.
